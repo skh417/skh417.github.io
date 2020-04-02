@@ -1,5 +1,5 @@
 ---
-title: Humane Typography in the Digital Age
+title: Git 명령어 정리
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
@@ -9,10 +9,18 @@ tags:
   - "Design"
   - "Typography"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "2주차 2일에 배운 git 내용입니다."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
+# 여기는 제목
+
+```js
+// 마크다운으로 코드 작성하는 법
+var a = 1
+var b = 9
+console.log( a + b);
+```
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
