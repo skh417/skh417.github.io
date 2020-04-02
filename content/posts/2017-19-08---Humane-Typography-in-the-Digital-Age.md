@@ -2,7 +2,7 @@
 title: Git 명령어 정리
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
-draft: false
+draft: false 
 slug: "humane-typography-in-the-digital-age"
 category: "Typography"
 tags:
@@ -15,11 +15,13 @@ socialImage: "/media/42-line-bible.jpg"
 
 # 여기는 제목
 
-```js
+```html
 // 마크다운으로 코드 작성하는 법
+<script>
 var a = 1
 var b = 9
 console.log( a + b);
+</script>
 ```
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
